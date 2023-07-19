@@ -31,9 +31,9 @@ Output: Hello
 ## Regex Components
 
 ### Anchors
-^start- connects a string that begins with start
-finish$- connects a string that ends with finish
-^start finish$- connects the strings from begining to end
+* ^start- connects a string that begins with start
+* finish$- connects a string that ends with finish
+* ^start finish$- connects the strings from begining to end
 
 ### Quantifiers
 
