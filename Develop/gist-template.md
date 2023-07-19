@@ -56,7 +56,11 @@ Output: Hello
 ### Bracket Expressions
 * 
 ### Greedy and Lazy Match
-* 
+* Quantifies can be classified as "greedy" or "lazy. Most quantifires are greedy. A greedy quantifier matches as meny times as possible. A lazy quantifier matches matches a few times as possible. They both match occuances of specific patterns.
+Example:
+Greedy Quantifier = *
+Lazy Quantifier = *?
+Referance = https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions#Greedy
 ### Boundaries
 * 
 ### Back-references
