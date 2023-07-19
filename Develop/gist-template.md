@@ -69,7 +69,9 @@ Output: Hello
 * Lazy Quantifier = *?
 * Referance = https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions#Greedy
 ### Boundaries
-* 
+*  Boundries allows the user to anchor regex patterns form begining to end.
+*  Example:  (\z)
+*  Referance - https://www.regular-expressions.info/wordboundaries.html
 ### Back-references
 * A back referance is described as a backslash with the number of the group the user is using.
 * Example: ([abc])\1
@@ -79,5 +81,5 @@ Output: Hello
 ### Look-ahead and Look-behind
 * 
 ## Author
-* 
+* Stacey A
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
