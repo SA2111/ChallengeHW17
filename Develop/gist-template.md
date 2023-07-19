@@ -36,11 +36,19 @@ Output: Hello
 * ^start finish$- connects the strings from begining to end
 
 ### Quantifiers
-* 
+* Quantifiers set a limt as to how meny times a charecter is present in the input for a match to be present. Quantifies can be classified as "greedy" or "lazy. Most quantifires are greedy. A greedy quantifier matches as meny times as possible. A lazy quantifier matches matches a few times as possible. They both match occuances of specific patterns.
+* Example:
+* Greedy Quantifier = *
+* Lazy Quantifier = *?
+* Referance = https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions#Greedy
 ### OR Operator
-* 
+* The OR Operator give the user the ability to find substrings that match with similar strings. An example would be if a user wants to match the string 'car' and 'bike'. A way to use this in python is by adding a "|" sign in bettween the two strings.
+* Example
+* (car|bike)
+* Referance- https://blog.finxter.com/python-regex-or/
 ### Character Classes
-* 
+* Charecter classes allowes the user to match one out of multiple charecters. You would do this by puting the charecter you want to match into the brackets. For example [a] would match a string that has an "a" in it. If you want to math two charecters such as a or y then you would put them in brackets such as [ay]. This could be used in the word 'delay' to match 'dela' or dely.
+* Referance- https://www.regular-expressions.info/charclass.html
 ### Flags
 * 
 ### Grouping and Capturing
