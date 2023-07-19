@@ -1,11 +1,9 @@
 # Regex Tutorial
 
 Introductory paragraph:
-This is a tutorial on Regex and all of its components.
+This is a tutorial on Regex and all of its components. This will show you all the components of regex.
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 What is Regex? Regex or regular expression is a type of syntex that can be used in changing and/or editing text strings. It can be used in any language and can make it easier and shorter to write code.
 
@@ -77,7 +75,9 @@ Output: Hello
 * Example: ([abc])\1
 * Referance - https://docs.oracle.com/javase/tutorial/essential/regex/groups.html
 ### Look-ahead and Look-behind
-* 
+* Zero length assersions
+* matches charecters then gives up the match and reyurns the result
+* Referance - https://www.regular-expressions.info/lookaround.html
 ## Author
 * Stacey A
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+* Git link - https://github.com/SA2111
