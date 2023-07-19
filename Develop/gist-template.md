@@ -60,7 +60,8 @@ Output: Hello
 * Capturing allows the user to take a group of charecters and use them as one.
 * Referance - https://docs.oracle.com/javase/tutorial/essential/regex/groups.html
 ### Bracket Expressions
-* 
+* Bracket expressions matchs a set of charecters with a specifis set of elements that the user creates.
+* Referance - https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#:~:text=A%20bracket%20expression%20(an%20expression,contained%20in%20the%20bracket%20expression.
 ### Greedy and Lazy Match
 * Quantifies can be classified as "greedy" or "lazy. Most quantifires are greedy. A greedy quantifier matches as meny times as possible. A lazy quantifier matches matches a few times as possible. They both match occuances of specific patterns.
 * Example:
