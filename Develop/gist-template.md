@@ -36,25 +36,25 @@ Output: Hello
 * ^start finish$- connects the strings from begining to end
 
 ### Quantifiers
-
+* 
 ### OR Operator
-
+* 
 ### Character Classes
-
+* 
 ### Flags
-
+* 
 ### Grouping and Capturing
-
+* 
 ### Bracket Expressions
-
+* 
 ### Greedy and Lazy Match
-
+* 
 ### Boundaries
-
+* 
 ### Back-references
-
+* 
 ### Look-ahead and Look-behind
-
+* 
 ## Author
-
+* 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
