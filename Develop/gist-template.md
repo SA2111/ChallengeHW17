@@ -58,6 +58,7 @@ Output: Hello
 * Referance - https://javascript.info/regexp-sticky
 ### Grouping and Capturing
 * Capturing allows the user to take a group of charecters and use them as one.
+* Referance - https://docs.oracle.com/javase/tutorial/essential/regex/groups.html
 ### Bracket Expressions
 * 
 ### Greedy and Lazy Match
@@ -69,7 +70,11 @@ Output: Hello
 ### Boundaries
 * 
 ### Back-references
-* 
+* A back referance is described as a backslash with the number of the group the user is using.
+* Example: ([abc])\1
+* Referance - https://docs.oracle.com/javase/tutorial/essential/regex/groups.html
+
+
 ### Look-ahead and Look-behind
 * 
 ## Author
