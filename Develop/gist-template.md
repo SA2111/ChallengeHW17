@@ -50,9 +50,14 @@ Output: Hello
 * Charecter classes allowes the user to match one out of multiple charecters. You would do this by puting the charecter you want to match into the brackets. For example [a] would match a string that has an "a" in it. If you want to math two charecters such as a or y then you would put them in brackets such as [ay]. This could be used in the word 'delay' to match 'dela' or dely.
 * Referance- https://www.regular-expressions.info/charclass.html
 ### Flags
-* 
+* Regex can contain flags that disrupt the search. These are the types of flags a regex can have:
+* i - This occures when the search is case sensitive
+* s - This occures when the search allows a . to match a newline charecter
+* y - This occures when the search allows the user to search at the position of the source string
+* Referance - https://javascript.info/regexp-introduction
+* Referance - https://javascript.info/regexp-sticky
 ### Grouping and Capturing
-* 
+* Capturing allows the user to take a group of charecters and use them as one.
 ### Bracket Expressions
 * 
 ### Greedy and Lazy Match
